@@ -52,12 +52,12 @@ My focus is clean architecture, meaningful projects, and daily deliberate practi
 
 ---
 
-### DevOps & Cloud *(Currently Learning)*
+### DevOps & Cloud 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,docker,aws" />
 </p>
 
-`Linux` &nbsp; `Shell Scripting` &nbsp; `Docker` &nbsp; `Docker Compose` &nbsp; `AWS (EC2, S3, IAM)`
+`Linux` &nbsp; `Shell Scripting` &nbsp; `Docker` &nbsp; `Docker Compose` &nbsp; `AWS (EC2, S3, IAM, RDS)`
 
 ---
 
