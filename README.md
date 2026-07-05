@@ -159,6 +159,31 @@ My focus is clean architecture, meaningful projects, and daily deliberate practi
 
 ---
 
+### Java DSA Practice 2026
+> Focused daily-practice repository covering core DSA patterns topic-by-topic
+
+- Organized by topic: Arrays, Bit Manipulation, HashTable, LinkedList, Recursion, Strings
+- Recently expanded with an in-depth **Linked List** module covering key interview patterns
+- 35+ commits of consistent, incremental practice
+
+**Tech:** `Java` `DSA` `LeetCode`
+
+[![Repo](https://img.shields.io/badge/GitHub-Java__2026-181717?style=flat-square&logo=github)](https://github.com/ROHITHELAYARAJA/Java_2026)
+
+---
+
+### Python Foundations
+> Python practice and foundational exercises, built as groundwork for a future ML transition
+
+- Pure Python codebase — 100% Python
+- Building core language fluency ahead of a planned ML engineering roadmap post-SDE role
+
+**Tech:** `Python`
+
+[![Repo](https://img.shields.io/badge/GitHub-Python-181717?style=flat-square&logo=github&logoColor=3776AB)](https://github.com/ROHITHELAYARAJA/ai-ml-engineer-journey)
+
+---
+
 ### Git Course
 > Beginner-friendly Git and GitHub learning repository
 
@@ -185,26 +210,25 @@ My focus is clean architecture, meaningful projects, and daily deliberate practi
 
 ---
 
-> Simple interactive browser game built in JavaScript
+### Todo List
+> Simple task management app built with HTML, CSS, and JavaScript
 
-- Built game logic and score tracking using vanilla JavaScript
-- Interactive DOM manipulation for real-time UI updates
-- Deployed live on Vercel
+- Clean UI for adding, completing, and removing tasks
+- DOM manipulation for real-time list updates
 
 **Tech:** `HTML` `CSS` `JavaScript`
 
-[![Repo](https://img.shields.io/badge/GitHub-Javascript-181717?style=flat-square&logo=github)](https://github.com/ROHITHELAYARAJA/Javascript) [![Live](https://img.shields.io/badge/Live-Demo-00BFFF?style=flat-square&logo=vercel)](https://rock-paper-scissors-fawn-sigma.vercel.app/)
+[![Repo](https://img.shields.io/badge/GitHub-Todo--List-181717?style=flat-square&logo=github)](https://github.com/ROHITHELAYARAJA/Todo-List)
 
 ---
 
 ## GitHub Stats
 
-<!-- Stats + Languages -->
+<!-- Stats + Top Languages (profile-wide, auto-calculated across all repos) -->
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=ROHITHELAYARAJA&cc=0d1117&tc=00BFFF&ic=58a6ff&bc=30363d" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ROHITHELAYARAJA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://img.shields.io/github/languages/top/ROHITHELAYARAJA/DSA-Mastery?style=for-the-badge&label=Top%20Language&color=b07219" alt="Top Language" />
-  <img src="https://img.shields.io/github/languages/count/ROHITHELAYARAJA/DSA-Mastery?style=for-the-badge&label=Languages%20Used&color=58a6ff" alt="Language Count" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITHELAYARAJA&layout=compact&theme=tokyonight&hide_border=true&langs_count=20" width="38%" alt="Top Languages" />
 </p>
 
 <!-- Streak Stats — stable mirror -->
