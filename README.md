@@ -172,13 +172,39 @@ My focus is clean architecture, meaningful projects, and daily deliberate practi
 
 ---
 
+### YouTube Clone
+> Static homepage clone of YouTube built with HTML & CSS
+
+- Recreated the YouTube homepage layout and styling using pure HTML/CSS
+- Deployed live on Vercel for public preview
+- Focused on pixel-accurate UI and responsive layout basics
+
+**Tech:** `HTML` `CSS`
+
+[![Repo](https://img.shields.io/badge/GitHub-YouTube.com--Clone-181717?style=flat-square&logo=github)](https://github.com/ROHITHELAYARAJA/YouTube.com-Clone) [![Live](https://img.shields.io/badge/Live-Demo-00BFFF?style=flat-square&logo=vercel)](https://you-tube-com-clone-nu.vercel.app/)
+
+---
+
+> Simple interactive browser game built in JavaScript
+
+- Built game logic and score tracking using vanilla JavaScript
+- Interactive DOM manipulation for real-time UI updates
+- Deployed live on Vercel
+
+**Tech:** `HTML` `CSS` `JavaScript`
+
+[![Repo](https://img.shields.io/badge/GitHub-Javascript-181717?style=flat-square&logo=github)](https://github.com/ROHITHELAYARAJA/Javascript) [![Live](https://img.shields.io/badge/Live-Demo-00BFFF?style=flat-square&logo=vercel)](https://rock-paper-scissors-fawn-sigma.vercel.app/)
+
+---
+
 ## GitHub Stats
 
 <!-- Stats + Languages -->
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=ROHITHELAYARAJA&cc=0d1117&tc=00BFFF&ic=58a6ff&bc=30363d" width="48%" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITHELAYARAJA&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="40%" alt="Top Languages" />
+  <img src="https://img.shields.io/github/languages/top/ROHITHELAYARAJA/DSA-Mastery?style=for-the-badge&label=Top%20Language&color=b07219" alt="Top Language" />
+  <img src="https://img.shields.io/github/languages/count/ROHITHELAYARAJA/DSA-Mastery?style=for-the-badge&label=Languages%20Used&color=58a6ff" alt="Language Count" />
 </p>
 
 <!-- Streak Stats — stable mirror -->
