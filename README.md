@@ -5,255 +5,325 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&color=00BFFF&center=true&vCenter=true&width=800&lines=Java+Backend+Developer+%7C+Spring+Boot+%7C+REST+APIs;Hibernate+%7C+MySQL+%7C+Docker+%7C+Linux;AWS+Cloud+%7C+Microservices+in+Progress;265%2B+LeetCode+Problems+%7C+100+Days+Badge+2026;Consistency+Compounds+%E2%80%94+Building+Every+Single+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&color=00BFFF&center=true&vCenter=true&width=800&lines=Java+Backend+Developer+%7C+Spring+Boot+%7C+REST+APIs+%7C+Cloud+Engineering" alt="Typing Animation" />
 </p>
 
 ---
 
-## About
+## 📋 Overview
 
-I am a second-year B.E. student in **Artificial Intelligence & Data Science** at VSB Engineering College, Karur, building production-ready Java backend skills from the ground up.
+This is a personal portfolio repository documenting my journey as a **Backend Engineer in progress** — a second-year B.E. student in Artificial Intelligence & Data Science at VSB Engineering College, Karur, building production-ready Java backend skills through meaningful projects and consistent deliberate practice.
 
-My focus is clean architecture, meaningful projects, and daily deliberate practice — not shortcuts.
-
-- 🎓 **B.E. AI & Data Science** — VSB Engineering College (2024–2028)
-- 💼 **Backend Intern** — Labmentix, Bengaluru
-- 🔥 **265+ LeetCode problems solved** · 100 Days Badge 2026
-- 🎯 Target: **SDE role** with deep backend + cloud competency
-
----
-
-## Technical Skills
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,bash" />
-</p>
-
-`Java` &nbsp; `Python` &nbsp; `SQL` &nbsp; `Bash`
+**Focus Areas:**
+- Clean architecture and scalable backend design
+- Production-grade REST APIs with Spring Boot
+- Cloud infrastructure (AWS) and DevOps practices
+- Data structures, algorithms, and system design
+- Full-stack competency with emphasis on backend excellence
 
 ---
 
-### Backend & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate" />
-</p>
+## 🛠 Tech Stack
 
-`Spring Boot` &nbsp; `REST APIs` &nbsp; `Hibernate ORM` &nbsp; `JDBC` &nbsp; `BCrypt` &nbsp; `Maven` &nbsp; `WebClient`
+### **Languages & Core Skills**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
----
+`Java` · `Python` · `SQL` · `Bash` · `Shell Scripting`
 
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+### **Backend & Frameworks**
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
-`MySQL` &nbsp; `SQL Joins` &nbsp; `Indexing` &nbsp; `Query Optimization`
+`Spring Boot` · `REST APIs` · `Hibernate ORM` · `JDBC` · `WebClient` · `Spring Web` · `Jackson` · `BCrypt` · `Maven`
 
----
+### **Database**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### DevOps & Cloud 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,aws" />
-</p>
+`MySQL` · `SQL Joins` · `Indexing` · `Query Optimization` · `Transaction Management`
 
-`Linux` &nbsp; `Shell Scripting` &nbsp; `Docker` &nbsp; `Docker Compose` &nbsp; `AWS (EC2, S3, IAM, RDS)`
+### **DevOps & Cloud**
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
+`AWS (EC2, S3, IAM, RDS)` · `Docker` · `Docker Compose` · `Linux` · `Shell Scripting`
 
-### Tools & Workflow
-<p>
-  <img src="https://skillicons.dev/icons?i=idea,vscode,git,github,postman" />
-</p>
+### **Tools & Development**
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-`IntelliJ IDEA` &nbsp; `VS Code` &nbsp; `Git` &nbsp; `GitHub` &nbsp; `Postman` &nbsp; `GitHub Copilot`
-
----
-
-## Projects
-
----
-
-### Student AI Assistant — Chrome Extension + Spring Boot
-> AI-powered Chrome Extension delivering 100 study features for students
-
-- Built a Chrome Extension side panel with three input modes: **Type, Mic, and File Upload**
-- Covers 100 study operations across 7 categories — Core Study, Exam Prep, Coding, Interview, Math, Research, and Extras
-- Backend powered by **Spring Boot** connected to **Groq AI API** (`llama-3.3-70b-versatile`)
-- Every operation uses a distinct, structured prompt — not a generic pass-through wrapper
-- Features include Summarize, Flashcards, Quiz Generation, Math Solver, Code Writer, System Design, and 94 more
-
-**Tech:** `Java` `Spring Boot` `WebClient` `Groq API` `Chrome Extension (Manifest V3)`
-
-[![Repo](https://img.shields.io/badge/GitHub-Student--AI--Assistant-181717?style=flat-square&logo=github)](https://github.com/ROHITHELAYARAJA/Student-AI-Assistant)
+`IntelliJ IDEA` · `VS Code` · `Git` · `GitHub` · `Postman` · `GitHub Copilot`
 
 ---
 
-### Challenge Management System — REST API
-> Production-style CRUD REST API built with Spring Boot
+## 🚀 Features & Key Achievements
 
-- Designed complete layered architecture: Controller → Service → Repository → Database
-- Resolved **Jackson LocalDate deserialization** issues and enforced camelCase naming conventions throughout
-- Full REST documentation with **Postman-tested endpoints** and shields.io badges in README
-- Implemented proper exception handling and HTTP status code discipline
-
-**Tech:** `Java` `Spring Boot` `Spring Web` `Jackson` `Maven` `MySQL`
-
-[![Repo](https://img.shields.io/badge/GitHub-Challenge--Management--System--REST--API-181717?style=flat-square&logo=github)](https://github.com/ROHITHELAYARAJA/Challenge-Management-System-REST-API)
+- **265+ LeetCode Problems Solved** — Daily DSA practice with pattern recognition approach
+- **LeetCode 100 Days Badge 2026** — Consistent daily programming discipline (username: `Shinchan_2007`)
+- **Production-Grade REST APIs** — Built with Spring Boot, complete layered architecture, proper exception handling
+- **AI-Powered Applications** — Chrome Extension + Backend integration with Groq AI API
+- **Secure Backend Systems** — BCrypt hashing, transaction auditing, BigDecimal precision for financial operations
+- **Cloud & DevOps Skills** — AWS, Docker, Linux shell scripting
+- **Full SDLC Experience** — From design to testing to deployment
 
 ---
 
-### Bank Management System
-> Secure, production-style console banking application
+## 📁 Folder & File Structure
 
-- Clean **three-layer architecture**: DAO → Service → UI — each with a single responsibility
-- **BCrypt password hashing** for secure credential storage
-- **Transaction audit logging** for every deposit and withdrawal with timestamps
-- **BigDecimal** for precise financial arithmetic — zero floating-point errors
-- Custom exceptions for invalid operations, insufficient balance, and account-not-found scenarios
+This repository is primarily a **portfolio showcase** with a single `README.md` file. For complete implementations and individual projects, see the project links below.
 
-**Tech:** `Java` `JDBC` `MySQL` `BCrypt` `Layered Architecture`
-
-[![Repo](https://img.shields.io/badge/GitHub-Bank--Management--System-181717?style=flat-square&logo=github)](https://github.com/ROHITHELAYARAJA/Bank-Management-System)
-
----
-
-### Hibernate Complete Learning
-> Structured Hibernate ORM implementation and learning repository
-
-- Implemented **Hibernate ORM** with IntelliJ and Maven end-to-end
-- Debugged and resolved **Ehcache 3.10.x + JDK 11+ namespace incompatibility** — applied `jakarta` classifier and `jaxb-runtime` fix
-- Covered entity mapping, session factory configuration, HQL queries, and second-level caching
-- Documented every issue and solution for reproducibility
-
-**Tech:** `Java` `Hibernate` `Maven` `MySQL` `Ehcache` `IntelliJ IDEA`
-
-[![Repo](https://img.shields.io/badge/GitHub-hibernate--complete--learning-181717?style=flat-square&logo=github)](https://github.com/ROHITHELAYARAJA/hibernate-complete-learning)
+```
+ROHITHELAYARAJA/
+├── README.md                          # This file — portfolio overview
+└── (Individual projects in separate repos)
+    ├── Student-AI-Assistant/
+    ├── Challenge-Management-System-REST-API/
+    ├── Bank-Management-System/
+    ├── hibernate-complete-learning/
+    ├── Java-OOP-Project/
+    ├── DSA-Mastery/
+    ├── Java_2026/
+    ├── ai-ml-engineer-journey/
+    ├── git-course/
+    ├── YouTube.com-Clone/
+    └── Todo-List/
+```
 
 ---
 
-### Java OOP Project
-> Comprehensive Java OOP concepts repository built for learning and interview revision
+## 📦 Setup & Installation
 
-- Covers all core pillars: **Encapsulation, Inheritance, Polymorphism, Abstraction**
-- Interview-focused code examples with plain-language explanations alongside each concept
-- Structured for both first-time learning and rapid pre-interview revision
+Since this is a **portfolio repository**, there are no build or installation steps. To explore individual projects:
 
-**Tech:** `Java` `OOP`
+### Clone a Specific Project
 
-[![Repo](https://img.shields.io/badge/GitHub-Java--OOP--Project-181717?style=flat-square&logo=github)](https://github.com/ROHITHELAYARAJA/Java-OOP-Project)
+```bash
+# Example: Clone the Student AI Assistant project
+git clone https://github.com/ROHITHELAYARAJA/Student-AI-Assistant.git
+cd Student-AI-Assistant
 
----
+# Install dependencies (if Maven project)
+mvn clean install
 
-### DSA Mastery
-> Daily data structures and algorithms practice repository
+# Run the project
+mvn spring-boot:run
+```
 
-- **265+ LeetCode problems** solved and documented in Java and Python
-- Topics: Arrays, Strings, HashMap, HashSet, Bit Manipulation, Merge Sort, Prefix Sums, Dynamic Programming
-- **LeetCode 100 Days Badge 2026** — username: `Shinchan_2007`
-- Pattern-based approach: recognize the class of problem before writing a single line
+### General Prerequisites
 
-**Tech:** `Java` `Python` `DSA` `LeetCode`
-
-[![Repo](https://img.shields.io/badge/GitHub-DSA--Mastery-181717?style=flat-square&logo=github)](https://github.com/ROHITHELAYARAJA/DSA-Mastery)
-
----
-
-### Java DSA Practice 2026
-> Focused daily-practice repository covering core DSA patterns topic-by-topic
-
-- Organized by topic: Arrays, Bit Manipulation, HashTable, LinkedList, Recursion, Strings
-- Recently expanded with an in-depth **Linked List** module covering key interview patterns
-- 35+ commits of consistent, incremental practice
-
-**Tech:** `Java` `DSA` `LeetCode`
-
-[![Repo](https://img.shields.io/badge/GitHub-Java__2026-181717?style=flat-square&logo=github)](https://github.com/ROHITHELAYARAJA/Java_2026)
+```bash
+# System requirements
+- Java 11+ (for all Spring Boot projects)
+- Python 3.8+ (for DSA and Python projects)
+- MySQL 8.0+ (for database projects)
+- Docker 20.10+ (for containerized deployments)
+- Git 2.30+ (for version control)
+- Maven 3.6+ (for Java projects)
+```
 
 ---
 
-### Python Foundations
-> Python practice and foundational exercises, built as groundwork for a future ML transition
+## 🎯 Current Project Status
 
-- Pure Python codebase — 100% Python
-- Building core language fluency ahead of a planned ML engineering roadmap post-SDE role
+### Status: **Active Development & Portfolio Building**
 
-**Tech:** `Python`
+**Latest Updates (July 2026):**
+- ✅ Student AI Assistant — Chrome Extension + Spring Boot backend (100 study features)
+- ✅ Challenge Management System REST API — Production-ready CRUD API
+- ✅ Bank Management System — Secure three-tier architecture with BCrypt
+- ✅ DSA Mastery — 265+ LeetCode problems solved
+- ✅ Java OOP Project — Complete interview-focused OOP reference
+- ✅ Hibernate Learning Repository — Full ORM implementation with caching
 
-[![Repo](https://img.shields.io/badge/GitHub-Python-181717?style=flat-square&logo=github&logoColor=3776AB)](https://github.com/ROHITHELAYARAJA/ai-ml-engineer-journey)
+**In Progress:**
+- 📚 ML Engineering Transition — Python Foundations repository as groundwork
+- 🔧 Advanced Spring Cloud — Microservices and distributed systems
 
----
+**Planned:**
+- 🌐 Cloud DevOps Deep Dive — Kubernetes, advanced AWS, CI/CD pipelines
+- 🔐 Security & Authentication — OAuth 2.0, JWT, API security patterns
 
-### Git Course
-> Beginner-friendly Git and GitHub learning repository
-
-- Structured `.txt` files across organized folders covering every core topic
-- ASCII diagrams for visual explanation of branching, merging, and rebasing
-- Covers pull requests, conflict resolution, and team collaboration workflows
-
-**Tech:** `Git` `GitHub` `Terminal`
-
-[![Repo](https://img.shields.io/badge/GitHub-git--course-181717?style=flat-square&logo=github)](https://github.com/ROHITHELAYARAJA/git-course)
-
----
-
-### YouTube Clone
-> Static homepage clone of YouTube built with HTML & CSS
-
-- Recreated the YouTube homepage layout and styling using pure HTML/CSS
-- Deployed live on Vercel for public preview
-- Focused on pixel-accurate UI and responsive layout basics
-
-**Tech:** `HTML` `CSS`
-
-[![Repo](https://img.shields.io/badge/GitHub-YouTube.com--Clone-181717?style=flat-square&logo=github)](https://github.com/ROHITHELAYARAJA/YouTube.com-Clone) [![Live](https://img.shields.io/badge/Live-Demo-00BFFF?style=flat-square&logo=vercel)](https://you-tube-com-clone-nu.vercel.app/)
+**Commit History:** 
+- Consistent daily commits across multiple repositories
+- Focus on incremental, meaningful progress
+- Each commit represents deliberate practice and learning
 
 ---
 
-### Todo List
-> Simple task management app built with HTML, CSS, and JavaScript
+## 🛑 Known Issues & TODOs
 
-- Clean UI for adding, completing, and removing tasks
-- DOM manipulation for real-time list updates
-
-**Tech:** `HTML` `CSS` `JavaScript`
-
-[![Repo](https://img.shields.io/badge/GitHub-Todo--List-181717?style=flat-square&logo=github)](https://github.com/ROHITHELAYARAJA/Todo-List)
+- [ ] Migrate to Spring Cloud Config for distributed system projects
+- [ ] Implement JWT-based authentication in REST APIs
+- [ ] Add containerized deployment examples (Docker + Compose)
+- [ ] Expand AWS usage to include Lambda, API Gateway, and SQS
+- [ ] Document system design patterns in dedicated module
+- [ ] Create Kubernetes deployment manifests
 
 ---
 
-## GitHub Stats
+## 🤝 How to Contribute
 
-<!-- Stats + Top Languages (profile-wide, auto-calculated across all repos) -->
+While this is primarily a personal portfolio, I welcome collaboration, feedback, and discussion:
+
+1. **Open Issues** — Report bugs or suggest improvements for any project
+2. **Pull Requests** — Submit enhancements, additional examples, or documentation improvements
+3. **Discussions** — Ask questions about implementation patterns or trade-offs
+4. **Code Review** — Constructive feedback on architecture and design decisions
+
+### Contribution Guidelines
+
+```bash
+# 1. Fork the repository
+git clone https://github.com/ROHITHELAYARAJA/[project-name].git
+cd [project-name]
+
+# 2. Create a feature branch
+git checkout -b feature/your-enhancement
+
+# 3. Make changes and commit
+git add .
+git commit -m "feat: describe your changes"
+
+# 4. Push to your fork
+git push origin feature/your-enhancement
+
+# 5. Open a Pull Request with a clear description
+```
+
+---
+
+## 📜 License
+
+This repository and all individual projects are licensed under the **MIT License**.
+
+See the `LICENSE` file in individual project repositories for full details.
+
+**License Grant:**
+- ✅ Free to use, modify, and distribute
+- ✅ Use in commercial projects
+- ⚠️ Attribution appreciated but not required
+- ⚠️ No warranty or liability
+
+---
+
+## 📊 GitHub Statistics
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ROHITHELAYARAJA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITHELAYARAJA&layout=compact&theme=tokyonight&hide_border=true&langs_count=20" width="38%" alt="Top Languages" />
 </p>
 
-<!-- Streak Stats — stable mirror -->
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=ROHITHELAYARAJA&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## Engineering Philosophy
+## 🔗 Project Showcase
+
+### Core Backend Projects
+
+**Student AI Assistant** — Chrome Extension + Spring Boot  
+[![Repo](https://img.shields.io/badge/GitHub-Student--AI--Assistant-181717?style=flat-square&logo=github)](https://github.com/ROHITHELAYARAJA/Student-AI-Assistant)
+- 100 study features across 7 categories
+- Groq AI API integration
+- WebClient for async HTTP calls
+
+**Challenge Management System REST API**  
+[![Repo](https://img.shields.io/badge/GitHub-Challenge--Management--System-181717?style=flat-square&logo=github)](https://github.com/ROHITHELAYARAJA/Challenge-Management-System-REST-API)
+- Layered architecture (Controller → Service → Repository)
+- Full CRUD operations
+- Postman-tested endpoints
+
+**Bank Management System**  
+[![Repo](https://img.shields.io/badge/GitHub-Bank--Management--System-181717?style=flat-square&logo=github)](https://github.com/ROHITHELAYARAJA/Bank-Management-System)
+- Three-tier architecture
+- BCrypt password hashing
+- Transaction audit logging
+
+---
+
+### Learning & DSA
+
+**DSA Mastery** — 265+ LeetCode Problems  
+[![Repo](https://img.shields.io/badge/GitHub-DSA--Mastery-181717?style=flat-square&logo=github)](https://github.com/ROHITHELAYARAJA/DSA-Mastery)
+- Java & Python implementations
+- Pattern-based approach
+- LeetCode 100 Days Badge 2026
+
+**Java DSA Practice 2026**  
+[![Repo](https://img.shields.io/badge/GitHub-Java__2026-181717?style=flat-square&logo=github)](https://github.com/ROHITHELAYARAJA/Java_2026)
+- Topic-by-topic organization
+- Linked List interview patterns
+- Daily practice consistency
+
+**Java OOP Project**  
+[![Repo](https://img.shields.io/badge/GitHub-Java--OOP--Project-181717?style=flat-square&logo=github)](https://github.com/ROHITHELAYARAJA/Java-OOP-Project)
+- Encapsulation, Inheritance, Polymorphism, Abstraction
+- Interview-focused examples
+
+---
+
+### Framework & Database
+
+**Hibernate Complete Learning**  
+[![Repo](https://img.shields.io/badge/GitHub-hibernate--complete--learning-181717?style=flat-square&logo=github)](https://github.com/ROHITHELAYARAJA/hibernate-complete-learning)
+- Full ORM implementation
+- HQL queries & caching
+- Ehcache 3.10.x integration
+
+**Git Course**  
+[![Repo](https://img.shields.io/badge/GitHub-git--course-181717?style=flat-square&logo=github)](https://github.com/ROHITHELAYARAJA/git-course)
+- Git fundamentals with ASCII diagrams
+- Branching, merging, rebasing
+- Team collaboration workflows
+
+---
+
+### Web & Frontend
+
+**Python Foundations**  
+[![Repo](https://img.shields.io/badge/GitHub-Python-181717?style=for-the-badge&logo=github&logoColor=3776AB)](https://github.com/ROHITHELAYARAJA/ai-ml-engineer-journey)
+- Groundwork for ML engineering
+- Pure Python codebase
+
+**YouTube Clone**  
+[![Repo](https://img.shields.io/badge/GitHub-YouTube.com--Clone-181717?style=flat-square&logo=github)](https://github.com/ROHITHELAYARAJA/YouTube.com-Clone)
+
+**Todo List**  
+[![Repo](https://img.shields.io/badge/GitHub-Todo--List-181717?style=flat-square&logo=github)](https://github.com/ROHITHELAYARAJA/Todo-List)
+
+---
+
+## 💡 Engineering Philosophy
 
 ```
 Understand the problem before touching the keyboard.
 Write code that your future self can read without comments.
 Consistency over motivation — show up even on bad days.
 Every bug is a lesson. Every fix is progress.
+Ship real projects. Solve real problems.
 ```
 
 ---
 
-## Connect
+## 🔗 Connect & Follow
 
 <p align="center">
   <a href="https://github.com/ROHITHELAYARAJA">
     <img src="https://img.shields.io/badge/GitHub-ROHITHELAYARAJA-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:e.rohith3130@gmail.com">
+    <img src="https://img.shields.io/badge/Email-e.rohith3130%40gmail.com-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
 
@@ -261,4 +331,8 @@ Every bug is a lesson. Every fix is progress.
 
 <p align="center">
   <strong>Backend Engineer in Progress · Shipping Real Projects · One Commit at a Time</strong>
+</p>
+
+<p align="center">
+  <em>Last Updated: July 2026 | Next Target: Production Microservices at Scale</em>
 </p>
