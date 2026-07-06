@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&color=00BFFF&center=true&vCenter=true&width=800&lines=Java+Backend+Developer+%7C+Spring+Boot+%7C+REST+APIs+%7C+Cloud+Engineering" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&color=00BFFF&center=true&vCenter=true&width=800&lines=Java+Backend+Developer+%7C+Spring+Boot+%7C+REST+APIs+%7C+Cloud+" alt="Typing Animation" />
 </p>
 
 ---
