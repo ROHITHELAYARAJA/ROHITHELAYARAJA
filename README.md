@@ -228,13 +228,13 @@ See the `LICENSE` file in individual project repositories for full details.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ROHITHELAYARAJA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ROHITHELAYARAJA&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITHELAYARAJA&layout=compact&theme=tokyonight&hide_border=true&langs_count=20" width="38%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITHELAYARAJA&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" width="48%" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ROHITHELAYARAJA&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ROHITHELAYARAJA&theme=midnight-purple&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
