@@ -5,14 +5,26 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&color=00BFFF&center=true&vCenter=true&width=800&lines=Java+Backend+Developer+%7C+Spring+Boot+%7C+REST+APIs+%7C+Cloud+" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&color=00BFFF&center=true&vCenter=true&width=800&lines=Java+Backend+Developer+%7C+Spring+Boot+%7C+REST+APIs" alt="Typing SVG" />
 </p>
+
+---
+
+## 📊 Repository Status
+
+| Metric | Status |
+|--------|--------|
+| **Top Language** | Java |
+| **Git Status** | ✅ Up to date · Last push: July 7, 2026 · 07:07:41 UTC |
+| **Default Branch** | main |
+| **Repository Size** | 46 KB |
+| **Last Updated** | 1 day ago |
 
 ---
 
 ## 📋 Overview
 
-This is a personal portfolio repository documenting my journey as a **Backend Engineer in progress** — a second-year B.E. student in Artificial Intelligence & Data Science at VSB Engineering College, Karur, building production-ready Java backend skills through meaningful projects and consistent deliberate practice.
+This is a personal portfolio repository documenting my journey as a **Backend Engineer in progress** — a second-year B.E. student in Artificial Intelligence & Data Science at VSB Engineering College.
 
 **Focus Areas:**
 - Clean architecture and scalable backend design
