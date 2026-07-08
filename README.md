@@ -14,11 +14,27 @@
 
 | Metric | Status |
 |--------|--------|
-| **Top Language** | Java |
+| **Top Language** | ☕ **Java (60%)** |
 | **Git Status** | ✅ Up to date · Last push: July 7, 2026 · 07:07:41 UTC |
 | **Default Branch** | main |
 | **Repository Size** | 46 KB |
 | **Last Updated** | 1 day ago |
+| **Total Public Repos** | 10+ |
+
+---
+
+## 📈 Language Distribution Across All Repos
+
+```
+Java        ████████████████████████████████░░░░  60%
+JavaScript  ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  10%
+Python      ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  10%
+HTML        ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  10%
+CSS         ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  10%
+```
+
+**Java Repositories (6):**
+- DSA-Mastery · Java_2026 · Java-OOP-Project · Student-AI-Assistant · Challenge-Management-System · Bank-Management-System
 
 ---
 
