@@ -12,14 +12,11 @@
 
 ## 📊 Repository Status
 
-| Metric | Status |
-|--------|--------|
-| **Top Language** | ☕ **Java (60%)** |
-| **Git Status** | ✅ Up to date · Last push: July 7, 2026 · 07:07:41 UTC |
-| **Default Branch** | main |
-| **Repository Size** | 46 KB |
-| **Last Updated** | 1 day ago |
-| **Total Public Repos** | 10+ |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ROHITHELAYARAJA&repo=ROHITHELAYARAJA&theme=midnight-purple&hide_border=true" alt="Repo Card" />
+</p>
+
+> The previous version of this section was static hand-typed text (a fixed date, a fixed repo size), so it never actually reflected real activity — that's why it looked "not working." It's replaced with the live card above, which pulls current data from GitHub's API and updates on its own.
 
 ---
 
@@ -45,7 +42,7 @@ CSS         ██░░░░░░░░░░░░░░░░░░░░�
 
 ## 📋 Overview
 
-This repository documents my journey as a **Backend Engineer in Progress** — a second-year B.E. student in Artificial Intelligence & Data Science at VSB Engineering College.
+This repository documents my journey as a **Backend Engineer in Progress** — a third-year B.E. student in Artificial Intelligence & Data Science at VSB Engineering College.
 
 **Focus Areas:**
 - Clean architecture and scalable backend design
@@ -97,7 +94,7 @@ This repository documents my journey as a **Backend Engineer in Progress** — a
 
 ## 🚀 Features & Key Achievements
 
-- 265+ LeetCode problems solved with pattern-based practice.
+- 300+ LeetCode problems solved with pattern-based practice.
 - LeetCode 100 Days Badge 2026.
 - Production-grade REST APIs with Spring Boot and layered architecture.
 - AI-powered applications with Chrome Extension + backend integration.
@@ -160,7 +157,7 @@ Maven 3.6+ for Java projects
 - Student AI Assistant — Chrome Extension + Spring Boot backend.
 - Challenge Management System REST API — production-ready CRUD API.
 - Bank Management System — secure three-tier architecture.
-- DSA Mastery — 265+ LeetCode problems solved.
+- DSA Mastery — 300+ LeetCode problems solved.
 - Java OOP Project — interview-focused OOP reference.
 - Hibernate Learning Repository — ORM implementation with caching.
 
@@ -234,19 +231,19 @@ This repository and individual projects are licensed under the **MIT License**.
 
 ### Core Backend Projects
 
-**Student AI Assistant** — Chrome Extension + Spring Boot  
+**Student AI Assistant** — Chrome Extension + Spring Boot
 [Repo](https://github.com/ROHITHELAYARAJA/Student-AI-Assistant)
 - 100 study features across 7 categories.
 - Groq AI API integration.
 - WebClient for async HTTP calls.
 
-**Challenge Management System REST API**  
+**Challenge Management System REST API**
 [Repo](https://github.com/ROHITHELAYARAJA/Challenge-Management-System-REST-API)
 - Layered architecture: Controller → Service → Repository.
 - Full CRUD operations.
 - Postman-tested endpoints.
 
-**Bank Management System**  
+**Bank Management System**
 [Repo](https://github.com/ROHITHELAYARAJA/Bank-Management-System)
 - Three-tier architecture.
 - BCrypt password hashing.
@@ -256,19 +253,19 @@ This repository and individual projects are licensed under the **MIT License**.
 
 ### Learning & DSA
 
-**DSA Mastery** — 265+ LeetCode Problems  
+**DSA Mastery** — 300+ LeetCode Problems
 [Repo](https://github.com/ROHITHELAYARAJA/DSA-Mastery)
 - Java and Python implementations.
 - Pattern-based approach.
 - LeetCode 100 Days Badge 2026.
 
-**Java DSA Practice 2026**  
+**Java DSA Practice 2026**
 [Repo](https://github.com/ROHITHELAYARAJA/Java_2026)
 - Topic-by-topic organization.
 - Linked List interview patterns.
 - Daily practice consistency.
 
-**Java OOP Project**  
+**Java OOP Project**
 [Repo](https://github.com/ROHITHELAYARAJA/Java-OOP-Project)
 - Encapsulation, Inheritance, Polymorphism, Abstraction.
 - Interview-focused examples.
@@ -277,13 +274,13 @@ This repository and individual projects are licensed under the **MIT License**.
 
 ### Framework & Database
 
-**Hibernate Complete Learning**  
+**Hibernate Complete Learning**
 [Repo](https://github.com/ROHITHELAYARAJA/hibernate-complete-learning)
 - Full ORM implementation.
 - HQL queries and caching.
 - Ehcache 3.10.x integration.
 
-**Git Course**  
+**Git Course**
 [Repo](https://github.com/ROHITHELAYARAJA/git-course)
 - Git fundamentals with ASCII diagrams.
 - Branching, merging, rebasing.
@@ -293,15 +290,15 @@ This repository and individual projects are licensed under the **MIT License**.
 
 ### Web & Frontend
 
-**Python Foundations**  
+**Python Foundations**
 [Repo](https://github.com/ROHITHELAYARAJA/ai-ml-engineer-journey)
 - Groundwork for ML engineering.
 - Pure Python codebase.
 
-**YouTube Clone**  
+**YouTube Clone**
 [Repo](https://github.com/ROHITHELAYARAJA/YouTube.com-Clone)
 
-**Todo List**  
+**Todo List**
 [Repo](https://github.com/ROHITHELAYARAJA/Todo-List)
 
 ---
