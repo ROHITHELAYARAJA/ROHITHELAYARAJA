@@ -10,16 +10,6 @@
 
 ---
 
-## 📊 Repository Status
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ROHITHELAYARAJA&repo=ROHITHELAYARAJA&theme=midnight-purple&hide_border=true" alt="Repo Card" />
-</p>
-
-> The previous version of this section was static hand-typed text (a fixed date, a fixed repo size), so it never actually reflected real activity — that's why it looked "not working." It's replaced with the live card above, which pulls current data from GitHub's API and updates on its own.
-
----
-
 ## 📈 Language Distribution Across All Repos
 
 ```text
@@ -216,9 +206,9 @@ This repository and individual projects are licensed under the **MIT License**.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ROHITHELAYARAJA&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ROHITHELAYARAJA&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&cache_seconds=86400" width="48%" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITHELAYARAJA&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" width="48%" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITHELAYARAJA&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&cache_seconds=86400" width="48%" alt="Most Used Languages" />
 </p>
 
 <p align="center">
