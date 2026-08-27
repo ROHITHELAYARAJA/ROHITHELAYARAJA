@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,aws,docker,git,github,linux,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,aws,docker,git,github,linux,js,html,css,typescript" />
 </p>
 
 ## About Me
