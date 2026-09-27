@@ -130,13 +130,9 @@ Relevant coursework: **Data Structures & Algorithms · OOP · DBMS · Operating 
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Rohith's Top Languages](https://ghstats.dev/api/langs?username=ROHITHELAYARAJA&hide_border=true&border_radius=22&layout=vertical_list)
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=ROHITHELAYARAJA&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="ROHITHELAYARAJA profile views" />
 
