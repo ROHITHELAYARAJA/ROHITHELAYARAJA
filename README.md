@@ -6,7 +6,7 @@
 
 Building practical software across **web, backend, cloud, databases, and AI-assisted learning**.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Java+%7C+Spring+Boot+%7C+REST+APIs;React+Basics+%7C+TypeScript;AWS+%7C+Docker+%7C+Vercel;Supabase+%7C+PostgreSQL+%7C+Firebase;Building+software+that+solves+real+problems" alt="Typing introduction" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Java+%7C+Spring+Boot+%7C+REST+APIs;React+Basics+%7C+TypeScript;AWS+%7C+Docker+%7C+Vercel;Supabase+%7C+Firebase;Building+software+that+solves+real+problems" alt="Typing introduction" />
 
 </div>
 
@@ -17,7 +17,7 @@ Building practical software across **web, backend, cloud, databases, and AI-assi
 - 🎓 Third-year **B.E. Artificial Intelligence & Data Science** student at **VSB Engineering College, Karur**.
 - 💻 Software developer working across **Java, Spring Boot, React basics, TypeScript, SQL, and cloud platforms**.
 - 🧠 Strong foundations in **Data Structures & Algorithms, OOP, DBMS, Operating Systems, and Computer Networks**.
-- ☁️ Building and deploying applications with **AWS, Vercel, Docker, Supabase, PostgreSQL, and Firebase**.
+- ☁️ Building and deploying applications with **AWS, Vercel, Docker, Supabase and Firebase**.
 - 🧩 Solved **315+ DSA problems on LeetCode** and regularly practice competitive problem solving.
 - 🚀 Interested in building reliable, scalable, user-focused software and intelligent systems.
 
@@ -123,6 +123,24 @@ Relevant coursework: **Data Structures & Algorithms · OOP · DBMS · Operating 
 - ☁️ **AWS Certified Cloud Practitioner**
 - 🤖 **Google AI Professional Certificate**
 - 🗄️ **HackerRank SQL Intermediate / Gold Achievement — 2026**
+
+---
+
+## Top Languages
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ROHITHELAYARAJA&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="ROHITHELAYARAJA profile views" />
+
+</div>
 
 ---
 
