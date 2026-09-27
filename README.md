@@ -1,48 +1,164 @@
-<h1 align="center">Rohith E</h1>
+<div align="center">
 
-<h3 align="center">
-  Backend Engineer in Progress · Java · Spring Boot · DSA · Cloud
-</h3>
+# Hi, I'm Rohith E 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&color=00BFFF&center=true&vCenter=true&width=800&lines=Java+Backend+Developer+%7C+Spring+Boot+%7C+REST+APIs" alt="Typing SVG" />
-</p>
+### Software Developer · AI & Data Science Student · Full-Stack & AI Systems Builder
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,aws,docker,git,github,linux,js,html,css,typescript" />
-</p>
+Building practical software across **web, backend, cloud, databases, and AI-assisted learning**.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Java+%7C+Spring+Boot+%7C+REST+APIs;React+%7C+Next.js+%7C+TypeScript;AWS+%7C+Docker+%7C+Vercel;Supabase+%7C+PostgreSQL+%7C+Firebase;Building+software+that+solves+real+problems" alt="Typing introduction" />
+
+</div>
+
+---
 
 ## About Me
 
-Backend-focused student building REST APIs, scalable applications, and practical projects with Java and Spring Boot.
+- 🎓 Third-year **B.E. Artificial Intelligence & Data Science** student at **VSB Engineering College, Karur**.
+- 💻 Software developer working across **Java, Spring Boot, React, Next.js, TypeScript, SQL, and cloud platforms**.
+- 🧠 Strong foundations in **Data Structures & Algorithms, OOP, DBMS, Operating Systems, and Computer Networks**.
+- ☁️ Building and deploying applications with **AWS, Vercel, Docker, Supabase, PostgreSQL, and Firebase**.
+- 🧩 Solved **315+ DSA problems on LeetCode** and regularly practice competitive problem solving.
+- 🚀 Interested in building reliable, scalable, user-focused software and intelligent systems.
 
-## Featured Projects
-
-- **Student AI Assistant** — Chrome Extension + Spring Boot backend.
-- **Challenge Management System** — REST API with layered architecture.
-- **Bank Management System** — Secure Java application with authentication and logging.
-- **DSA Mastery** — Java and Python problem-solving practice.
+---
 
 ## Tech Stack
 
-- Java
-- Spring Boot
-- REST APIs
-- Hibernate
-- MySQL
-- AWS
-- Docker
-- Linux
-- Git and GitHub
+<div align="center">
 
-## Currently Learning
+### Languages
 
-- Spring Boot advanced concepts
-- DSA and system design
-- AWS and Docker
-- Backend interview preparation
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-## Contact
+### Frontend
 
-- GitHub: [ROHITHELAYARAJA](https://github.com/ROHITHELAYARAJA)
-- Email: [e.rohith3130@gmail.com](mailto:e.rohith3130@gmail.com)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### Backend
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat&logo=fastapi&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat&logo=openjdk&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+
+### Databases & Backend Services
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+### Testing & Developer Tools
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
+![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=flat&logo=jasmine&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+
+</div>
+
+---
+
+## Featured Projects
+
+### 🧪 [Virtual Labs — Engineering Learning Platform](https://github.com/ROHITHELAYARAJA/Virtual-Labs)
+
+**Next.js · TypeScript · Spring Boot · Supabase · PostgreSQL · Firebase**
+
+- Built a browser-based engineering learning platform designed for approximately **500–600 students across 4 academic years**.
+- Organized **12 engineering lab modules** with interactive learning, quizzes, progress tracking, academic resources, and persistent student data.
+- Structured experiments into a four-part flow: **theory/video → interactive simulation → JVM execution tracing → challenge/quiz**.
+- Built REST workflows with Spring Boot and a cloud-backed data layer using Supabase/PostgreSQL.
+
+### 🚀 [Blast AI — Student AI Assistant](https://github.com/ROHITHELAYARAJA/Student-AI-Assistant)
+
+**React · TypeScript · Express · AWS · AI Model Integration**
+
+- Built an AI study workspace supporting searchable **PDFs up to 10 MB / 80 pages**, plus TXT and Markdown.
+- Generates study outputs including **notes, flashcards, quizzes, explanations, and document-aware tutoring**.
+- Added repeatable integration testing with a temporary database and mocked AI responses.
+- Keeps AI model configuration and credentials on the backend and supports AWS-based deployment.
+
+### 🏦 [Bank Management System](https://github.com/ROHITHELAYARAJA/Bank-Management-System)
+
+**Java · JDBC · MySQL · BCrypt · Maven**
+
+- Implemented **7 core banking workflows** including account creation, authentication, deposits, withdrawals, balance checks, account deletion, and transfers.
+- Designed a clean **UI → Service → DAO** layered architecture.
+- Used JDBC transactions with **commit/rollback**, PreparedStatement, and BCrypt-based authentication.
+- Applied separate business rules for **Savings** and **Current** accounts.
+
+---
+
+## Education
+
+**VSB Engineering College, Karur**  
+B.E. Artificial Intelligence & Data Science · **2024 – 2028**  
+CGPA: **8.00 / 10**
+
+Relevant coursework: **Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks**
+
+---
+
+## Achievements & Certifications
+
+- 🧠 **315+ Data Structures & Algorithms problems** solved on LeetCode.
+- ☁️ **AWS Certified Cloud Practitioner**
+- 🤖 **Google AI Professional Certificate**
+- 🗄️ **HackerRank SQL Intermediate / Gold Achievement — 2026**
+
+---
+
+## GitHub Status
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ROHITHELAYARAJA&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Rohith's GitHub stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITHELAYARAJA&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Rohith's top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ROHITHELAYARAJA&theme=github-dark-blue&hide_border=true" alt="Rohith's GitHub streak" />
+
+</div>
+
+---
+
+## Coding Profile
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-ROHITHELAYARAJA-181717?style=for-the-badge&logo=github)](https://github.com/ROHITHELAYARAJA)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Shinchan__2007-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Shinchan_2007)
+
+</div>
+
+---
+
+<div align="center">
+
+### Build. Learn. Improve. Repeat.
+
+<sub>Focused on creating useful software, strengthening engineering fundamentals, and growing into a well-rounded software developer.</sub>
+
+</div>
