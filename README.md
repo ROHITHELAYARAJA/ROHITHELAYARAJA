@@ -6,7 +6,7 @@
 
 Building practical software across **web, backend, cloud, databases, and AI-assisted learning**.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Java+%7C+Spring+Boot+%7C+REST+APIs;React+%7C+Next.js+%7C+TypeScript;AWS+%7C+Docker+%7C+Vercel;Supabase+%7C+PostgreSQL+%7C+Firebase;Building+software+that+solves+real+problems" alt="Typing introduction" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Java+%7C+Spring+Boot+%7C+REST+APIs;React+%7C+TypeScript;AWS+%7C+Docker+%7C+Vercel;Supabase+%7C+PostgreSQL+%7C+Firebase;Building+software+that+solves+real+problems" alt="Typing introduction" />
 
 </div>
 
@@ -15,7 +15,7 @@ Building practical software across **web, backend, cloud, databases, and AI-assi
 ## About Me
 
 - 🎓 Third-year **B.E. Artificial Intelligence & Data Science** student at **VSB Engineering College, Karur**.
-- 💻 Software developer working across **Java, Spring Boot, React, Next.js, TypeScript, SQL, and cloud platforms**.
+- 💻 Software developer working across **Java, Spring Boot, React, TypeScript, SQL, and cloud platforms**.
 - 🧠 Strong foundations in **Data Structures & Algorithms, OOP, DBMS, Operating Systems, and Computer Networks**.
 - ☁️ Building and deploying applications with **AWS, Vercel, Docker, Supabase, PostgreSQL, and Firebase**.
 - 🧩 Solved **315+ DSA problems on LeetCode** and regularly practice competitive problem solving.
@@ -38,7 +38,6 @@ Building practical software across **web, backend, cloud, databases, and AI-assi
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
@@ -79,7 +78,7 @@ Building practical software across **web, backend, cloud, databases, and AI-assi
 
 ### 🧪 [Virtual Labs — Engineering Learning Platform](https://github.com/ROHITHELAYARAJA/Virtual-Labs)
 
-**Next.js · TypeScript · Spring Boot · Supabase · Firebase**
+**TypeScript · Spring Boot · Supabase · Firebase**
 
 - Built a browser-based engineering learning platform designed for approximately **500–600 students across 4 academic years**.
 - Organized **12 engineering lab modules** with interactive learning, quizzes, progress tracking, academic resources, and persistent student data.
@@ -88,7 +87,7 @@ Building practical software across **web, backend, cloud, databases, and AI-assi
 
 ### 🚀 [Blast AI — Student AI Assistant](https://github.com/ROHITHELAYARAJA/Student-AI-Assistant)
 
-**React · TypeScript · Express · AWS · AI Model Integration**
+**React · TypeScript · AWS · AI Model Integration**
 
 - Built an AI study workspace supporting searchable **PDFs up to 10 MB / 80 pages**, plus TXT and Markdown.
 - Generates study outputs including **notes, flashcards, quizzes, explanations, and document-aware tutoring**.
@@ -125,30 +124,20 @@ Relevant coursework: **Data Structures & Algorithms · OOP · DBMS · Operating 
 
 ---
 
-## GitHub Status
+## GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ROHITHELAYARAJA&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Rohith's GitHub stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROHITHELAYARAJA&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Rohith's top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=ROHITHELAYARAJA&theme=github-dark-blue&hide_border=true" alt="Rohith's GitHub streak" />
+[![GitHub](https://img.shields.io/badge/GitHub-ROHITHELAYARAJA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ROHITHELAYARAJA)
+![GitHub followers](https://img.shields.io/github/followers/ROHITHELAYARAJA?style=for-the-badge&logo=github&label=Followers)
 
 </div>
 
 ---
 
-## Coding Profile
+## Connect with Me
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-ROHITHELAYARAJA-181717?style=for-the-badge&logo=github)](https://github.com/ROHITHELAYARAJA)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Shinchan__2007-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Shinchan_2007)
-
-</div>
+- [LinkedIn — Rohith E](https://linkedin.com/in/rohith-e-600452331)
 
 ---
 
