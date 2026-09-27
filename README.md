@@ -47,12 +47,10 @@ Building practical software across **web, backend, cloud, databases, and AI-assi
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat&logo=fastapi&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat&logo=openjdk&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
 ### Databases & Backend Services
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
@@ -68,7 +66,6 @@ Building practical software across **web, backend, cloud, databases, and AI-assi
 ### Testing & Developer Tools
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=flat&logo=jasmine&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -82,12 +79,12 @@ Building practical software across **web, backend, cloud, databases, and AI-assi
 
 ### 🧪 [Virtual Labs — Engineering Learning Platform](https://github.com/ROHITHELAYARAJA/Virtual-Labs)
 
-**Next.js · TypeScript · Spring Boot · Supabase · PostgreSQL · Firebase**
+**Next.js · TypeScript · Spring Boot · Supabase · Firebase**
 
 - Built a browser-based engineering learning platform designed for approximately **500–600 students across 4 academic years**.
 - Organized **12 engineering lab modules** with interactive learning, quizzes, progress tracking, academic resources, and persistent student data.
 - Structured experiments into a four-part flow: **theory/video → interactive simulation → JVM execution tracing → challenge/quiz**.
-- Built REST workflows with Spring Boot and a cloud-backed data layer using Supabase/PostgreSQL.
+- Built REST workflows with Spring Boot and a cloud-backed data layer using Supabase.
 
 ### 🚀 [Blast AI — Student AI Assistant](https://github.com/ROHITHELAYARAJA/Student-AI-Assistant)
 
