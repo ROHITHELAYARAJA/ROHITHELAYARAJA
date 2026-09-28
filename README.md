@@ -2,7 +2,7 @@
 
 # Hi, I'm Rohith E 👋
 
-### Software Developer · AI & Data Science Student · Full-Stack & AI Systems Builder
+### Software Developer · AI & Data Science Student · Backend, Cloud & AI Projects
 
 Building practical software across **web, backend, cloud, databases, and AI-assisted learning**.
 
@@ -104,6 +104,19 @@ Building practical software across **web, backend, cloud, databases, and AI-assi
 - Designed a clean **UI → Service → DAO** layered architecture.
 - Used JDBC transactions with **commit/rollback**, PreparedStatement, and BCrypt-based authentication.
 - Applied separate business rules for **Savings** and **Current** accounts.
+
+---
+
+## Mini & Learning Projects
+
+| Project | What I Built / Learned |
+|---|---|
+| 🛒 [E-Commerce Platform](https://github.com/ROHITHELAYARAJA/ecommerce-platform) | Shopping workflow with product browsing, cart, checkout, orders, tracking, browser storage, and Jasmine testing. |
+| 🌱 [Challenge Management System REST API](https://github.com/ROHITHELAYARAJA/Challenge-Management-System-REST-API) | Beginner-friendly Java + Spring Boot CRUD REST API with Controller–Service architecture and Postman testing. |
+| 🎬 [YouTube Clone](https://github.com/ROHITHELAYARAJA/YouTube.com-Clone) | Early frontend project built with HTML and CSS to practice responsive layouts, Grid, Flexbox, tooltips, and UI recreation. |
+| ✅ [Todo List](https://github.com/ROHITHELAYARAJA/Todo-List) | Beginner HTML, CSS, and vanilla JavaScript project with task creation, due dates, deletion, DOM manipulation, and dark mode. |
+| 🧠 [DSA Mastery](https://github.com/ROHITHELAYARAJA/DSA-Mastery) | Structured practice repository for arrays, strings, recursion, linked lists, HashMap, Set, and interview problem solving. |
+| ☕ [Java OOP Project](https://github.com/ROHITHELAYARAJA/Java-OOP-Project) | Java OOP learning repository covering classes, objects, inheritance, polymorphism, abstraction, encapsulation, and clean-code fundamentals. |
 
 ---
 
