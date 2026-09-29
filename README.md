@@ -19,6 +19,7 @@ Building practical software across **web, backend, cloud, databases, and AI-assi
 - 🧠 Strong foundations in **Data Structures & Algorithms, OOP, DBMS, Operating Systems, and Computer Networks**.
 - ☁️ Building and deploying applications with **AWS, Vercel, Docker, Supabase and Firebase**.
 - 🧩 Solved **315+ DSA problems on LeetCode** and regularly practice competitive problem solving.
+- 🌍 Open-source contributor to **AbacusAI Bot** — merged PR #70 fixing Windows 8.3 scratch-path handling.
 - 🚀 Interested in building reliable, scalable, user-focused software and intelligent systems.
 
 ---
@@ -117,6 +118,19 @@ Building practical software across **web, backend, cloud, databases, and AI-assi
 | ✅ [Todo List](https://github.com/ROHITHELAYARAJA/Todo-List) | Beginner HTML, CSS, and vanilla JavaScript project with task creation, due dates, deletion, DOM manipulation, and dark mode. |
 | 🧠 [DSA Mastery](https://github.com/ROHITHELAYARAJA/DSA-Mastery) | Structured practice repository for arrays, strings, recursion, linked lists, HashMap, Set, and interview problem solving. |
 | ☕ [Java OOP Project](https://github.com/ROHITHELAYARAJA/Java-OOP-Project) | Java OOP learning repository covering classes, objects, inheritance, polymorphism, abstraction, encapsulation, and clean-code fundamentals. |
+
+---
+
+## Open Source Contribution
+
+### 🌍 [AbacusAI Bot — PR #70](https://github.com/abacusai/abacusai-bot/pull/70)
+
+**Windows Path Handling · Guardrails · Regression Testing**
+
+- Fixed a Windows **8.3 short-path** issue that incorrectly blocked valid temporary-file writes in agent guardrails.
+- Updated temp-directory normalization so Windows scratch paths resolve consistently.
+- Restored and added regression tests for Windows temporary-path handling.
+- Verified with the project test suite and quality checks before the contribution was **reviewed and merged upstream**.
 
 ---
 
