@@ -121,19 +121,6 @@ Building practical software across **web, backend, cloud, databases, and AI-assi
 
 ---
 
-## Open Source Contribution
-
-### 🌍 [AbacusAI Bot — PR #70](https://github.com/abacusai/abacusai-bot/pull/70)
-
-**Windows Path Handling · Guardrails · Regression Testing**
-
-- Fixed a Windows **8.3 short-path** issue that incorrectly blocked valid temporary-file writes in agent guardrails.
-- Updated temp-directory normalization so Windows scratch paths resolve consistently.
-- Restored and added regression tests for Windows temporary-path handling.
-- Verified with the project test suite and quality checks before the contribution was **reviewed and merged upstream**.
-
----
-
 ## Education
 
 **VSB Engineering College, Karur**  
