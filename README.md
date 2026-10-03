@@ -148,7 +148,7 @@ Relevant coursework: **Data Structures & Algorithms · OOP · DBMS · Operating 
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ROHITHELAYARAJA&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="ROHITHELAYARAJA profile views" />
+<img src="https://komarev.com/ghpvc/?username=ROHITHELAYARAJA-profile-reset-20261003&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="ROHITHELAYARAJA profile views" />
 
 </div>
 
